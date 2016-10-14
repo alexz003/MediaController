@@ -1,0 +1,26 @@
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\bin\Debug\Media Distributor.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\bin\Debug\Media Distributor.exe
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\bin\Debug\Media Distributor.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media Distributor.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media Distributor.exe
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media Distributor.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\bin\Debug\System.Data.SQLite.dll
+c:\users\alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.MainForm.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media Distributor.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.SearchResultChoiceForm.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.SettingsForm.resources
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\bin\Debug\Media Distributor.exe.config
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media Distributor.exe
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media Distributor.pdb
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\bin\Debug\Media Distributor.exe
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\bin\Debug\Media Distributor.pdb
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\bin\Debug\System.Data.SQLite.dll
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\bin\Debug\System.Data.SQLite.xml
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media Distributor.csprojResolveAssemblyReference.cache
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.MainForm.resources
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.Properties.Resources.resources
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.SearchResultChoiceForm.resources
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media_Distributor.SettingsForm.resources
+Z:\Users\Alex\Programming\Media Distributor\Media Distributor\obj\Debug\Media Distributor.csproj.GenerateResource.Cache
